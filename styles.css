@@ -42,3 +42,6 @@ body{
     .controls button:hover{
         background-color: dodgerblue;
     }
+    home{
+        color: none;
+    }

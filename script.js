@@ -1,3 +1,4 @@
+//HELLO DOWN THERE
 var input1 = document.getElementById("txtInput1");
 var input2 = document.getElementById("txtInput2");
 var inputOp = document.getElementById("txtOperator");
@@ -5,7 +6,6 @@ var operand1;
 var operand2;
 
 /**
-
 *Function to give input. 
 * @param evt: Will have event information. 
 * This will help us findout which button is clicked 

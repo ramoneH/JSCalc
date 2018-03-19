@@ -1,4 +1,5 @@
 # _JS_Calculator
 
-Simple Js CalculAtor
+Simple Js CalculAtor With BASIC functions
+
 
