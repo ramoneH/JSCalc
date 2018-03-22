@@ -4,7 +4,7 @@ body{
     }
     .container{
     display:grid;
-    grid-template-columns: 20%;
+    grid-template-columns: 90%;
     grid-template-rows:2;
     }
     
@@ -33,7 +33,10 @@ body{
     }
     .controls button{
     height: 38px;
-    border:0;
+    background-color: black;
+    text-decoration-color: seashell;
+    border:1px;
+    border: red;
     font-weight: bold;
     font-size:20px;
     margin:5px;
