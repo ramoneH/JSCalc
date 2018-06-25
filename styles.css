@@ -33,7 +33,7 @@ body{
     }
     .controls button{
     height: 38px;
-    background-color: black;
+    background-color: steelblue;
     text-decoration-color: seashell;
     border:1px;
     border: red;
