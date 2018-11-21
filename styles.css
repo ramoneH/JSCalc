@@ -33,8 +33,8 @@ body{
     }
     .controls button{
     height: 38px;
-    background-color: steelblue;
-    text-decoration-color: seashell;
+    background-color: pink;
+    text-decoration-color: pink;
     border:1px;
     border: red;
     font-weight: bold;
@@ -43,7 +43,7 @@ body{
     }
     
     .controls button:hover{
-        background-color: pink;
+        background-color: steelblue;
     }
     home{
         color: none;
