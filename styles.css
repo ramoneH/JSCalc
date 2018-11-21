@@ -43,7 +43,7 @@ body{
     }
     
     .controls button:hover{
-        background-color: dodgerblue;
+        background-color: pink;
     }
     home{
         color: none;
