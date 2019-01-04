@@ -41,7 +41,7 @@ input1.value = input1.value + char;
 * @param char: To know whether user has clicked on operator buttons such as +,-,* and / 
 */
 function isOperator(char) {
-if (char === '+' || char == '-' || char == '*' || char == '/') {
+if (char == '+' || char == '-' || char == '*' || char == '/') {
 return true;
 }
 else {
